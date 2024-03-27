@@ -1,5 +1,6 @@
 /* TODO fix import Figtree font */
 @import url('https://fonts.googleapis.com/css2?family=Figtree:400&display=swap');
+/* TODO: connect local fonts in fonts.ts file using local font instead of font face (caused by optimization) */
 @import url('@/assets/fonts/fonts.css');
 
 .container {

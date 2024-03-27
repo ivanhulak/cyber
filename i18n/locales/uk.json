@@ -1,0 +1,16 @@
+{
+  "navigation": {
+    "home": "Головна",
+    "about": "Про нас"
+  },
+  "page": {
+    "home": {
+      "title": "Головна",
+      "description": "Це головна сторінка"
+    },
+    "about": {
+      "title": "Про нас",
+      "description": "Це сторінка Про нас"
+    }
+  }
+}
